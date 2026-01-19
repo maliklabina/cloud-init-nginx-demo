@@ -1,4 +1,4 @@
-## Terraform-ec2-nginx
+## Cloud-Init-Nginx-Demo
 
 - This repository demonstrates how to create EC2 instances using Terraform in HCL language and automatically install Nginx on them using cloud-init.
 
