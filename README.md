@@ -122,8 +122,6 @@ Flow explanation:
 
 - Free Tier compatible (t2.micro).
 
-- Root volume size ≥ 30GB to match AMI snapshot requirements.
-
 - Security group allows SSH, HTTP, and HTTPS access.
 
 - Outputs EC2 public/private IPs and DNS names.
