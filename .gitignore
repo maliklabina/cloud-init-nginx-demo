@@ -1,0 +1,33 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+.terraformrc
+terraform.rc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+
+# Local SSH keys (keep public keys)
+terra-key-ec2
+!terra-key-ec2.pub
+
+# Environment variables
+.env
+.env.local
+
+# AWS credentials (NEVER commit these)
+.aws/credentials
+
+# Build artifacts
+build/
+dist/
