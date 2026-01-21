@@ -103,6 +103,8 @@ http://<public_ip>
 
 
 
+Learn more about Cloud Init - https://cloudinit.readthedocs.io/en/latest/
+
 ## Visual Flow
 
 Flow explanation:
